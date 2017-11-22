@@ -83,4 +83,5 @@
 		<Item Name="2L13-ech2D_tab1D_pop_moy_et_ec.vi" Type="VI" URL="../2L13-ech2D_tab1D_pop_moy_et_ec.vi"/>
 		<Item Name="2L14-n1_limites_de_nc_C_et_A.vi" Type="VI" URL="../2L14-n1_limites_de_nc_C_et_A.vi"/>
 	</Item>
+	<Item Name="SVI_gauss_proba.vi" Type="VI" URL="../../S-app/SVI_gauss_proba.vi"/>
 </Library>
